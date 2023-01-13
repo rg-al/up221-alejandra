@@ -1,2 +1,4 @@
-# up221-alejandra
-UP GIS/Python Course
+# **UCLA Urban Planning**
+## Intro to GIS and Spatial Data Science
+Winter 2023
+
